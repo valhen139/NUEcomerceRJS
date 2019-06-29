@@ -26,7 +26,7 @@ const formulario = {
 }
 
   const Section = (props) => {
-    return <section><FormText color="danger" width="100%"><h2 width="100%" >Fallo Login!</h2></FormText></section>
+    return <section><FormText color="danger" width="100%"><h2 width="100%" >Error en usuario o password!</h2></FormText></section>
   }
 
   
